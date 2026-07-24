@@ -1,0 +1,11 @@
+invoice_id,invoice_number,vendor_name,amount,invoice_date,description
+1004,INV-20668,Delta Office Solutions,7052.32,2024-10-09,Consulting services
+1001,INV-81795,Delta Office Solutions,5777.49,2024-01-23,Software license
+1006,INV-76552,Bright Star Logistics,5088.86,2024-02-28,Monthly service fee
+1007,INV-60136,Golden Gate Marketing,6217.95,2024-05-28,Maintenance contract
+1002,INV-57720,Delta Office Solutions,2906.57,2024-01-24,Office supplies
+1003,INV-34689,Golden Gate Marketing,2566.78,2024-02-17,Maintenance contract
+1009,INV-20668,Delta Office Solutions,7052.32,2024-10-09,Consulting services
+1005,INV-51718,Golden Gate Marketing,3395.96,2024-10-10,Software license
+1008,INV-29040,Falcon Hardware,944.05,2024-01-05,Cleaning services
+1010,INV-51718,Golden Gate Marketing ,3395.95,2024-10-13,Software license
